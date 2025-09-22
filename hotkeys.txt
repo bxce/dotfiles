@@ -1,0 +1,9 @@
+shift + alt + enter = terminal
+shift + alt + c = cierra terminal
+
+feh --bg-fill wall/ nombre = wallpaper
+
+alt + 1/2/3/4/.. = desktops
+
+
+nano /etc/X11/xinit/xinitrc
